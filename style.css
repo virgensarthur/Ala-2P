@@ -1,10 +1,11 @@
 :root{
-    
+    --preto: #000000;
+    --gelo: #faebd7;
 }
 
 body{
-    background-color: antiquewhite;
-    color: black;
+    background-color: (var(--gelo));
+    color: (var(--preto));
 }
 
 img{
