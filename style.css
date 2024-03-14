@@ -21,3 +21,7 @@ header{
     
     width: 20%;
 }
+
+.intro{
+    display: flex;
+}
