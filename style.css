@@ -26,4 +26,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: #0bd5b7;
+    margin: 20px 10px 0px;
+    padding: 25px;
+    border-radius: 100px;
+    border: 1px solid;
 }
