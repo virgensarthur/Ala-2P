@@ -40,8 +40,9 @@ header{
 .criadores{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-}
-
-.img-arthur{
-    width: 30px;
+    background-color: #ffebcd;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px;
+    border: 1px solid;
 }
