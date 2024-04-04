@@ -42,4 +42,6 @@ header{
     grid-template-columns: 33% 33% 33%;
 }
 
-.img
+.img-arthur{
+    width: 30px;
+}
