@@ -36,3 +36,8 @@ header{
     border-radius: 100px;
     border: 1px solid;
 }
+
+.criadores{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
