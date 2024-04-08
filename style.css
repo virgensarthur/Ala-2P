@@ -37,7 +37,7 @@ header{
     border: 1px solid;
 }
 
-.equipe{
+.criadores{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     background-color: #ffebcd;
