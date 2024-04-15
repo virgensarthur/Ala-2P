@@ -66,6 +66,10 @@ header{
 footer{
     background-color: antiquewhite;
     color: black;
+    margin: 20px;
+    border-radius: 50px;
+    border: 1px solid;
+    text-align: center;
 }
 
 a{
