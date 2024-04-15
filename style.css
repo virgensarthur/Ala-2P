@@ -48,6 +48,12 @@ header{
     text-align: center;
 }
 
+#equipe{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+}
+
 .foto-equipe{
     width: 30%;
 }
@@ -66,3 +72,4 @@ a{
     color: black;
     text-decoration:none ;
 }
+
