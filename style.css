@@ -81,3 +81,14 @@ a{
 .titulo{
     color: #329632;
 }
+
+.hab{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 50% 25% 25%;
+    text-align: center;
+}
+
+.img-hab{
+    width: 67%;
+}
