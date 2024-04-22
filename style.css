@@ -87,8 +87,13 @@ a{
     align-items: center;
     grid-template-columns: 50% 25% 25%;
     text-align: center;
+    background-color: #80CEE1;
+    margin: 20px 10px 0px;
+    padding: 25px;
+    border-radius: 10px;
+    border: 1px solid;
 }
 
 .img-hab{
-    width: 67%;
+    width: 67%      ;
 }
