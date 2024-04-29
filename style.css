@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root{
     --preto: #000000;
     --gelo: #faebd7;
@@ -6,6 +8,12 @@
 body{
     background-color: (var(--gelo));
     color: (var(--preto));
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
 }
 
 img{
@@ -106,3 +114,4 @@ a{
 .texto{
     font-size: x-large;
 }
+
